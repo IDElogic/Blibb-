@@ -1,11 +1,16 @@
 Jetpack Compose UI Playground...not more
 
 
+
 A feature-rich demonstration app showcasing Jetpack Compose's capabilities through various
 polished UI implementations. This project serves as both a learning resource and inspiration for
 Me ...and maybe for others too.
 
+
+
 ![Screen_shots](https://github.com/user-attachments/assets/bc6770bf-a02c-4a5a-ab02-772e2081b56d)
+
+
 
 
 Features:
@@ -25,6 +30,7 @@ interface.
 - Reusable Components library for common UI patterns
 
 
+
 Tech Stack:
 
 100% Jetpack Compose UI
@@ -41,6 +47,8 @@ Kotlin & Coroutines (Flow)
 SQLDelight
 
 
+
+
 License 📄
 
 Copyright (c) 2025 IDElogic project and open source contributors.
@@ -53,6 +61,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
 
 
 Acknowledgments 🙏
