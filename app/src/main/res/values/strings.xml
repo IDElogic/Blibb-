@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Blibb</string>
+
+    <!-- Bottom Navigation Title -->
+    <string name="menu_shop">Shop</string>
+    <string name="menu_explore">Explore</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_about">About</string>
+    <string name="image_on_boarding">Image On Boarding</string>
+    <string name="histamine_app">Histamine App</string>
+    <string name="desc_welcome">Welcome</string>
+    <string name="get_started">Get Started</string>
+    <string name="search_store">Search Store</string>
+    <string name="search_category">Search Category</string>
+    <string name="image_slider">Image Slider</string>
+    <string name="image_product">Image Product</string>
+    <string name="add">Add</string>
+    <string name="image_category">Image Category</string>
+    <string name="arrow_right">Arrow Right</string>
+    <string name="image_favorite">Image Favorite</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="nutritions">XOXOXOX</string>
+    <string name="review">Review</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="logo_app">Logo App</string>
+    <string name="shop">Shop</string>
+    <string name="image_location">Image Location</string>
+    <string name="sample_country">Histamine</string>
+    <string name="see_all">See All</string>
+    <string name="exclusive_offer">Low Histamine Food</string>
+    <string name="best_selling">Avoid FoodList </string>
+    <string name="image_profile">Image Profile</string>
+    <string name="name_profile">XOXOXOX</string>
+    <string name="email_profile">gmail@gmail.com</string>
+    <string name="image_about">Image About</string>
+    <string name="logout">Logout</string>
+    <string name="image_delete">Image Delete</string>
+    <string name="my_cart">Shopping List</string>
+    <string name="image_content_empty">Image Content Empty</string>
+    <string name="oops_no_data">Ooops! No Data</string>
+
+
+    <string name="documentation">
+
+    |  Multi-module Architecture with clean separation of concerns
+    |  User login and Admin login with different activities,  [user@example.com; userpass, admin@example.com; adminpass]
+    |  Shop Interface with product listings and cart management
+    |  Simple Todo List UI
+    |  Adaptive Grid Layouts for different screen sizes
+    |  PDF Reader with custom rendering controls
+    |  Recipe App UI with ingredient tracking and step-by-step guides
+    |  QR Scanner
+    |  Advanced Animations - An example of how I envision home automation with a  good-looking interface.
+    |  Animated about Me Section
+    |  Reusable Components library for common UI patterns
+
+
+    </string>
+
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="section_one">Section One</string>
+    <string name="temperature">18 ℃</string>
+    <string name="section_three">Section Three</string>
+    <string name="add_tasks">ADD TASKS</string>
+    <string-array name="tasks">
+        <item>+123 0123456789</item>
+        <item>+123 4567890123</item>
+        <item>+123 4567897890</item>
+        <item>+123 4545670123</item>
+        <item>+123 5667890123</item>
+    </string-array>
+    <string name="section_two">Section Two</string>
+    <string-array name="topics">
+        <item>expand and collapse animations 1.</item>
+        <item>expand and collapse animations 2.</item>
+        <item>expand and collapse animations 3.</item>
+        <item>expand and collapse animations 4.</item>
+    </string-array>
+    <string name="expanded">Creating expand and collapse animations in Jetpack Compose is quite simple.</string>
+    <string name="edit">EDIT</string>
+    <string name="edit_message">Feature is not supported</string>
+    <string name="refresh">Refresh</string>
+    <string name="content_description_viewpager">viewpager</string>
+
+
+</resources>
